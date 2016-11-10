@@ -1,0 +1,20 @@
+html, body {
+	background-color: #ffeecc;
+}
+.navbar {
+	background-color: #993300;
+	color: white;
+	text-align: center;
+	height: 75px;
+}
+
+.img-responsive {
+	height: 20%;
+	width: 20%;
+}
+
+.header {
+	font-family: "Times New Roman", Times;
+	text-align: center;
+	font-size: 40px;
+}
