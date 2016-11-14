@@ -1,0 +1,32 @@
+html, body {
+	background-color: white;
+}
+.navbar {
+	background-color: #800000;
+	color: white;
+	text-align: center;
+	height: 75px;
+	font-family: Helvetica;
+}
+
+.img-responsive {
+	height: 90%;
+	width: 90%;
+}
+
+.teams {
+	height: 70%;
+	width: 70%;
+	margin-left: 50px;
+}
+
+#aguilas {
+	text-align: left;
+}
+
+.header {
+	font-family: Helvetica;
+	text-align: left;
+	font-size: 40px;
+	margin-left: 50px;
+}
