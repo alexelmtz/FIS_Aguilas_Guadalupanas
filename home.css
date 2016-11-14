@@ -1,0 +1,49 @@
+html, body {
+	background-image: url(Images/logo.png);
+	background-repeat: no-repeat;
+	width: 100%;
+	height: auto;
+	position: fixed;
+}
+.navbar {
+	background-color: #800000;
+	color: white;
+	text-align: center;
+	height: 75px;
+	font-family: Helvetica;
+}
+
+.img-responsive {
+	height: 90%;
+	width: 90%;
+}
+#aguilas {
+	text-align: left;
+}
+
+.header {
+	font-family: Helvetica;
+	text-align: left;
+	font-size: 40px;
+	margin-left: 50px;
+}
+
+.logout {
+	height: 70%;
+	width: 70%;
+	margin-top: 10px;
+}
+
+#nombre {
+	font-family: Helvetica;
+	font-style: italic;	
+	font-size: 150%;
+	margin-top: 25px;
+	margin-left: 0;
+}
+
+.user {
+	height: 70%;
+	width: 70%;
+	margin-top: 10px;
+}
