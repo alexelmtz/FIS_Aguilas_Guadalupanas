@@ -1,14 +1,12 @@
 html, body {
 	background-image: url(Images/logo.png);
 	background-repeat: no-repeat;
-	background-size:100%;
+	background-size:70%;
 	width: 100%;
 	height: auto;
 	position: fixed;
 }
-.background{
 
-}
 .vcenter{
 	display: inline-block;
     vertical-align: middle;
@@ -61,4 +59,37 @@ html, body {
 	height: 70%;
 	width: 70%;
 	margin-top: 10px;
+}
+
+.tabla{
+	float: left;
+	text-align: left;
+	vertical-align: center;
+	border: 0;
+	margin-left: 100px;
+	margin-top: 20px;
+	border-collapse: separate;
+	border-spacing: 1em;
+}
+
+.icon{
+	height: 24px;
+	width: 24px;
+}
+
+.texto{
+	font-size: 200%
+}
+
+.calendario{
+	margin-left: 350px;
+	height: 300px;
+	width: 275px;
+}
+
+.quote{
+	font-family: georgia;
+	font-size: 200%;
+	float: right;
+	margin-right: 170px;
 }
