@@ -88,8 +88,20 @@ body {
 }
 
 .quote{
+	margin-top: 15px;
 	font-family: georgia;
-	font-size: 200%;
+	font-size: 150%;
 	float: right;
-	margin-right: 240px;
+	margin-right: 100px;
+}
+
+.quote-author {
+	font-family: georgia;
+	font-size: 150%;
+	float: right;
+	margin-right: 100px;
+}
+
+.col-md-5 {
+	float: right;
 }
