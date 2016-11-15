@@ -1,7 +1,7 @@
-html, body {
-	background-image: url(Images/logo.png);
+body {
+	background-image: url(../Images/logo.png);
 	background-repeat: no-repeat;
-	background-size:70%;
+	background-size:100%;
 	width: 100%;
 	height: auto;
 	position: fixed;
@@ -91,5 +91,5 @@ html, body {
 	font-family: georgia;
 	font-size: 200%;
 	float: right;
-	margin-right: 170px;
+	margin-right: 240px;
 }
