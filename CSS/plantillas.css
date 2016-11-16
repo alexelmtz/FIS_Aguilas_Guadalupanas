@@ -1,6 +1,12 @@
-html, body {
-	background-color: white;
+body {
+	background-image: url(../Images/logo.png);
+	background-repeat: no-repeat;
+	background-size:100%;
+	width: 100%;
+	height: auto;
+	position: fixed;
 }
+
 .navbar {
 	background-color: #800000;
 	color: white;
@@ -49,4 +55,8 @@ html, body {
 	height: 70%;
 	width: 70%;
 	margin-top: 10px;
+}
+
+.plantillas_body {
+	width: 100%;
 }
